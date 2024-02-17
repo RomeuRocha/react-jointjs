@@ -1,7 +1,7 @@
 import React, { useEffect, useRef } from 'react';
-import /** as*/ joint from 'jointjs'
 
-//import Shape from './Shape'
+
+import * as joint from '@joint/core'
 
 
 const Diagram = () => {
